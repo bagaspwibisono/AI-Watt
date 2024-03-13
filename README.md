@@ -14,10 +14,9 @@ Perkenal kan aku Olivia Felixa✨. Olivia Menggunakan teknologi API ChatGPT 3.5 
 
 # Preview:
 
-<p float="left">
-  <img src="https://github.com/bagaspwibisono/AI-Watt/blob/main/image/chat-ai.PNG?raw=true" width="100" />
-  <img src="https://github.com/bagaspwibisono/AI-Watt/blob/main/image/profil-bot.PNG?raw=true" width="100" /> 
-</p>
+![Chat Preview](https://github.com/bagaspwibisono/AI-Watt/blob/main/image/chat-ai.PNG?raw=true)
+![Bot Preview](https://github.com/bagaspwibisono/AI-Watt/blob/main/image/profil-bot.PNG?raw=true)
+
 
 
 ## Authors
