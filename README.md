@@ -12,10 +12,15 @@ Perkenal kan aku Olivia Felixa✨. Olivia Menggunakan teknologi API ChatGPT 3.5 
 
 **API/Misc:** ChatGPT, Stable Diffusion, aiohttp, discord, openai, BlackBox
 
+# Preview:
+
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![Chat AI]([https://...Dark.png](https://media.discordapp.net/attachments/1074714266357223574/1217354036353831034/image.png))  |  ![Profile Bot]([https://...Ocean.png](https://media.discordapp.net/attachments/1074714266357223574/1217354036634714152/image.png))
+
 
 ## Authors
 
 - [@voltacdev](https://www.github.com/voltacdev)
 
-- [@mishalhossin](https://github.com/mishalhossin) (Origin author)
 
